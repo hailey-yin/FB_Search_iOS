@@ -1,2 +1,2 @@
-# FB_Search
-A web page to perform Facebook graph search.
+# FB_Search_iOS
+The iOS version of FB_Search.
